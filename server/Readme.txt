@@ -1,0 +1,2 @@
+db用cassandra
+server提供http服务器, 使用ruby开发
